@@ -1,0 +1,9 @@
+bs4
+requests
+loguru
+pydantic
+flask
+flask-swagger
+flask-swagger-ui
+gunicorn
+ipip-ipdb
